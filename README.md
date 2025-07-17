@@ -1,37 +1,85 @@
 # _________Mariane Moura  𝄢_________
+<p align="left"> 
+    Desenvolvedora em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
+</p>
 
-Recentemente concluí o ensino médio🎓 e por sorte já pude me matricular em uma faculdade. Meus hobbies principais são música🎶, ler📚, passear💰 e aprender coisas novas🤓, como esse curso. Fiz parte do grupo de teatro no CEFSA e participei da peça🎭 POV- Por Onde Vejo, escrita por Maria Helena Chirra! Por fim, tenho uma cachorrinha chamada paçoca🐶.
+## Sobre mim
+
+- 🖥️ Técnica em Desenvolvimento de Sistemas pela ETEC
+- 🎓 Graduanda em Administração pela FESA
+- 📚 Estudando desenvolvimento fullstack
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤓 TI- Hardware e Software | Fundamentos de computação IFRS
+
+## Tecnologias e linguagens 💻
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
 
 
+
+## ⭐ GitHub Stats
+<a href="https://github.com/MariiMoura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariiMoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAriiMoura&layout=compact&langs_count=6&theme=radical"/>
+
+  
 ## 📲 CONECTE-SE COMIGO! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariane-santana-de-moura/) 
+<br clear="both">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marii._.mouraa/profilecard/?igsh=OHFwYW9xeHF0bmYz)
+<div align="left">
+  <a href="https://www.linkedin.com/in/mariane-santana-de-moura/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Marii_Moura__?s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/marii._.mouraa?igsh=OHFwYW9xeHF0bmYz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariiMoura)
 
 
-##  🎆 Habilidades 
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+##  🎆Hobies
 
 ![musica](https://img.shields.io/badge/🎶Music-100000?style=for-the-badge&hub&logoColor=white)
 
 ![Atuação](https://img.shields.io/badge/🎭Theater-%23E4405F?style=for-the-badge&logologoColor=white)
 
 ![Estudos](https://img.shields.io/badge/📚Study&Books-%23E4405F?style=for-the-badge&logologoColor=white)
-<!--
-**MariiMoura/MariiMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Meu SPOTIFY 🎧
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31inkvx5lbmf75v6cd2t66qhnqwi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31inkvx5lbmf75v6cd2t66qhnqwi&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###  
