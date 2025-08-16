@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-- 🖥️ Técnica em Desenvolvimento de Sistemas pela ETEC
+- 🖥️ HTML | CSS | JS
 - 🎓 Graduanda em Administração pela FESA
 - 📚 Estudando desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
