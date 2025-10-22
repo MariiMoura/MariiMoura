@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-- 🖥️ HTML | CSS | JS
+- 🖥️ HTML | CSS | JS | PYTHON | JAVA
 - 🎓 Graduanda em Administração pela FESA
 - 📚 Estudando desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
