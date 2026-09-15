@@ -5,9 +5,9 @@
 
 ## Sobre mim
 
-- 🖥️ HTML | CSS | JS | PYTHON | JAVA
+- 🖥️ HTML | CSS | JS | PYTHON | C#
 - 🎓 Graduanda em Administração pela FESA
-- 📚 Estudando desenvolvimento fullstack
+- 📚 Estudando desenvolvimento fullstack, mais focada em backend
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🤓 TI- Hardware e Software | Fundamentos de computação IFRS
 
@@ -32,11 +32,6 @@
 
 ## ⭐ GitHub Stats
 ###
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariiMoura/MariiMoura/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariiMoura/MariiMoura/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MariiMoura/MariiMoura/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
   
